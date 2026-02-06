@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">FC_002</string>
+    <string name="title_welcome_back">Welcome Back</string>
+    <string name="label_username">Username</string>
+    <string name="hint_username">Enter your username</string>
+    <string name="label_password">Password</string>
+    <string name="hint_password">Enter your password</string>
+    <string name="checkbox_remember_me">Remember me</string>
+    <string name="text_forgot_password">Forgot Password?</string>
+    <string name="btn_sign_in">Sign In</string>
+    <string name="btn_create_account">Create Account</string>
+    <string name="desc_app_logo">Application Logo</string>
+    <string name="btn_task1_label">Task 1: Login UI</string>
+    <string name="btn_task2_label">Task 2: Worst Layout</string>
 </resources>
